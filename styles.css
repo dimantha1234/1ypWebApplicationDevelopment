@@ -1,0 +1,40 @@
+#login-signup {
+    width: 100%;
+    max-width: 50%;
+    margin: 50px auto;
+    background:#fafafa;
+    -webkit-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    min-height: 200px;
+    padding: 40px;
+    opacity: 0.9;
+  }
+
+#index {
+    width: 100%;
+    max-width: 75%;
+    margin: 50px auto;
+    background:#fafafa;
+    -webkit-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 96px 0px rgba(0,0,0,0.75);
+    min-height: 200px;
+    padding: 40px;
+    opacity: 0.9;
+  }
+
+#title{
+    font-size: 3vmax;
+}
+
+#subtitle{
+    font-size: 2vmax;
+}
+
+.body {
+    width: 100%;
+    height: auto;
+    background-image: url('bg2.jpg');
+    background-repeat: no-repeat;
+}
